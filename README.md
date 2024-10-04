@@ -4,8 +4,6 @@
 </div>
 <div align="center"> Um login screen com tema dark </div> 
 
-<h2 align="center"><a href="https://master--ubiquitous-tapioca-4da5cb.netlify.app/">Ver site</a></h2>
-
 ## Indice
 
 - <a href="#funcionalidades-do-projeto">funcionalidades do projeto</a>
@@ -22,28 +20,13 @@
 <br>
 
 <h2 id="como-rodar">Como rodar o projeto</h2>
+clique aqui >>  <a href="https://master--ubiquitous-tapioca-4da5cb.netlify.app/">Ver site</a>
 
-``` bash
-    # Clone este repositorio
-    $ git clone linkrepo
 
-    # Acesse a pasta do projeto no seu terminal
-    $ cd instagram-app
-
-    # Instale as dependencias
-    $ npm install
-    # ou
-    $ yarn
-
-    # Execute a aplicação
-    $ npm run dev
-    #ou
-    $ yarn dev
-```
 <h2 id="tecnologias-ultilizadas">Tecnologias utilizadas</h2> 
 
-1. [React](https://react.dev/)
-1. [Vite](https://vitejs.dev/)
+1. [HTML]([https://react.dev/](https://developer.mozilla.org/pt-BR/docs/Web/HTML))
+1. [CSS]([https://vitejs.dev/](https://developer.mozilla.org/pt-BR/docs/Web/CSS))
 
 
 <h2 id="pessoas-autoras">Pessoas autoras</h2> 
