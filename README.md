@@ -17,7 +17,6 @@
 - [x] tema dark e white, e suas transições
 - [x] mostrar e ocultar images
 - [x] GET de api de fotos
-<br>
 
 <h2 id="como-rodar">Como rodar o projeto</h2>
 clique aqui >>  <a href="https://master--ubiquitous-tapioca-4da5cb.netlify.app/">Ver site</a>
