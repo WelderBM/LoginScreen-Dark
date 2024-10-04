@@ -1,6 +1,9 @@
-<h1 align="center">instagram-app</h1>
-<img src="./capa.jpg"/>
-Um clone do Instagram
+<h1 align="center">Dark Login Screen</h1>
+<div align="center">
+<img src="./capa.png"/>
+</div>
+<div align="center"> Um login screen com tema dark </div> 
+
 <h2 align="center"><a href="https://master--ubiquitous-tapioca-4da5cb.netlify.app/">Ver site</a></h2>
 
 ## Indice
@@ -50,5 +53,4 @@ welder barroso
 
 <h2 id="proximos-passos">Próximos passos</h2> 
 
-- [ ] implementar like como alterável pelo usuário
-- [ ] implementar busca
+- [ ] deixar funcional
