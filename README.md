@@ -24,8 +24,8 @@
 
 <h2 id="tecnologias-ultilizadas">Tecnologias utilizadas</h2> 
 
-1. [HTML]([https://react.dev/](https://developer.mozilla.org/pt-BR/docs/Web/HTML))
-1. [CSS]([https://vitejs.dev/](https://developer.mozilla.org/pt-BR/docs/Web/CSS))
+1. [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+1. [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 
 <h2 id="pessoas-autoras">Pessoas autoras</h2> 
