@@ -19,7 +19,7 @@
 - [x] GET de api de fotos
 
 <h2 id="como-rodar">Como rodar o projeto</h2>
-clique aqui >>  <a href="https://master--ubiquitous-tapioca-4da5cb.netlify.app/">Ver site</a>
+<a href="https://master--ubiquitous-tapioca-4da5cb.netlify.app/">Ver site clicando aqui</a>
 
 
 <h2 id="tecnologias-ultilizadas">Tecnologias utilizadas</h2> 
@@ -35,4 +35,4 @@ welder barroso
 
 <h2 id="proximos-passos">Próximos passos</h2> 
 
-- [ ] deixar funcional
+- [ ] deixar login funcional
