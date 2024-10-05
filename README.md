@@ -19,7 +19,7 @@
 - [x] GET de api de fotos
 
 <h2 id="como-rodar">Como rodar o projeto</h2>
-<a href="https://master--ubiquitous-tapioca-4da5cb.netlify.app/">Ver site clicando aqui</a>
+<a href="https://welderbm.github.io/LoginScreen-Dark/">Ver site clicando aqui</a>
 
 
 <h2 id="tecnologias-ultilizadas">Tecnologias utilizadas</h2> 
